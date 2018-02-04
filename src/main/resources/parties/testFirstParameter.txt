@@ -1,0 +1,10 @@
+1.	a4	e5
+2.	h4 d5
+3.	Rh3 a6
+4.	Raa3 b6
+5.	d4 h6
+6.	e4  h5
+7.  Rhd3 f6
+8.  Rdd2 dxe4
+9.  dxe5 g6
+10. Rad3

@@ -1,0 +1,9 @@
+1.   e4	e5
+2.	Nf3	Nc6
+3.	Bc4	Nf6
+4.	d3	d5
+5.	exd5	Nxd5
+6.	Nc3	Be6
+7.	Nxd5	Bxd5
+8.	Bxd5	Qxd5
+9.	Qe2

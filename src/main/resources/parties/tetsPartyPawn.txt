@@ -1,0 +1,5 @@
+1. e4 d5
+2. Nh3 exe4
+3. f3 exf3
+4. a3 fxg2
+5. d4
